@@ -13,6 +13,3 @@
 - Data extraction and manipulation solutions
 
 ---
-
-### 📫 Reach Me
-📧 miro9961@gmail.com
